@@ -24,8 +24,7 @@
    },
    {
       "id": 3,
-      "nombre"
-: "Producto C",
+      "nombre": "Producto C",
       "precio": 5.25,
       "stock": 30
    }
