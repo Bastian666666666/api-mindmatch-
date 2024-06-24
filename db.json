@@ -7,5 +7,28 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "Lista":
+  [
+   {
+      "id": 1,
+      "nombre": "Producto A",
+      "precio": 10.99,
+      "stock": 25
+   },
+   {
+      "id": 2,
+      "nombre": "Producto B",
+      "precio": 7.5,
+      "stock": 15
+   },
+   {
+      "id": 3,
+      "nombre"
+: "Producto C",
+      "precio": 5.25,
+      "stock": 30
+   }
+]
+  
 }
