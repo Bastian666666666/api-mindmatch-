@@ -8,7 +8,7 @@
   "profile": {
     "name": "typicode"
   },
-  "lista_trastornos": [
+  "listatrastornos": [
     {
       "id": 1,
       "nombre": "Trastorno de ansiedad generalizada",
